@@ -1,0 +1,22 @@
+#main-vis{
+width: 90%
+}
+#landing-vis{
+    width:  150%;
+    height: 150%;
+    padding: 15%;
+  }
+
+.box-right{padding:5%}
+.box-left{padding: 5%}
+
+.navbar-default{
+    height:200px
+}
+
+body{ background: lightgray !important;
+
+}
+
+figure{padding: 5%}
+
